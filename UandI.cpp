@@ -1,3 +1,7 @@
+//Final Project for Discrete Mathematics Class
+//Assignment to demonstrate a choice of topic learned in the course in choice of programming language.
+
+
 #include <iostream>
 //#include <vector>
 #include <algorithm>
